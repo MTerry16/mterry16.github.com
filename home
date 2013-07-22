@@ -13,11 +13,13 @@
 <div id="left_column">
 	<h2>Links</h2>
 	<br>
-	<h3><a href="file://localhost/Users/Guest/Desktop/Mike%20Landis%20html/Home.html">Home</a></h3>
+	<h3><a href="home.html">Home</a></h3>
 	<br>
-	<h3><a href="file://localhost/Users/Guest/Desktop/Mike%20Landis%20html/MikeLandis.html">About Me</a></h3>
+	<h3><a href="aboutme.html">About Me</a></h3>
 	<br>
-	<h3><a href="file://localhost/Users/Guest/Desktop/Mike%20Landis%20html/Portfolio Page.html">Portfolio</a></h3>
+	<h3><a href="porfolio3.html">Portfolio</a></h3>
+	<br>
+	<h3><a href="contacts.html">Contacts</a></h3>
 </div>
 
 <div id="main_content"><p>This is my personal website, this website contains my about me page, my portfolio,my contacts, and the page your on</p>
