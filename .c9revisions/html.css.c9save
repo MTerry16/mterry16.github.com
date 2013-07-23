@@ -2,3 +2,4 @@
 {"contributors":[],"silentsave":false,"ts":1374605370679,"patch":[[{"diffs":[[0,"te;\n"],[-1,"\twidth:80%"],[1,"    background-image:url(http://animedepot.net/wp-content/uploads/2012/10/blue_exorcist_wallpaper_by_t1a60.png)"],[0,";\n\tm"]],"start1":198,"start2":198,"length1":18,"length2":119}]],"length":571,"saved":false}
 {"ts":1374605583568,"patch":[[{"diffs":[[0,"\n{\n\t"],[-1,"background-color:white;"],[0,"\n   "]],"start1":174,"start2":174,"length1":31,"length2":8}]],"length":548,"saved":false}
 {"ts":1374605713296,"patch":[[{"diffs":[[0,"0.png);\n"],[1,"    background-size:100%;\n"],[0,"\tmin-hei"]],"start1":284,"start2":284,"length1":16,"length2":42}]],"length":574,"saved":false}
+{"ts":1374605788289,"patch":[[{"diffs":[[0,"tent\n{\n\t"],[1,"width:80%;"],[0,"\n    bac"]],"start1":170,"start2":170,"length1":16,"length2":26}]],"length":584,"saved":false}
